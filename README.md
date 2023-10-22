@@ -18,3 +18,4 @@
 ## Day 1
 
 - Skeleton of C++ program: [Hello World Program](helloWorld.cpp)
+- Adding 2 Nos.: [Addition of 2 Numbers](add2No.cpp)
