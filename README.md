@@ -15,6 +15,14 @@
 
 ## Day 1
 
-- Skeleton of C++ program: [Hello World Program](helloWorld.cpp)
-- Adding 2 Nos.: [Addition of 2 Numbers](add2No.cpp)
+- Skeleton of C++ program: [helloWorld.cpp](helloWorld.cpp)
+- Adding 2 Nos.: [add2No.cpp](add2No.cpp)
 - Welcome Msg with Name: [welcomeMsg.cpp](welcomeMsg.cpp)
+
+--------------------------------------
+
+## Day 2
+
+- Area of Triangle: [areaTriangle.cpp](areaTriangle.cpp)
+- Roots of quadratic equation: [rootsOfQuad.cpp](rootsOfQuad.cpp)
+- Sum of first N natural numbers: [sumOfFirstN.cpp](sumOfFirstN.cpp)
